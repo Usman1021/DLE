@@ -1,7 +1,7 @@
 ## Deep Ensemble Learning with Frame Skipping for Face Anti-Spoofing
 #### Authors: Usman Muhammad, Md Ziaul Hoque, and Mourad Oussalah
 
-#### Journal: [The 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023](https://ipta-conference.com/ipta23/)
+#### Conference: [The 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023](https://ipta-conference.com/ipta23/)
 ##
 
 ### Abstract
