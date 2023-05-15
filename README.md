@@ -1,0 +1,8 @@
+## [Deep Ensemble Learning with Frame Skipping for Face Anti-Spoofing]
+#### Authors: Usman Muhammad, Md Ziaul Hoque, and Mourad Oussalah
+
+#### Journal: [The 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023](https://ipta-conference.com/ipta23/)
+##
+
+### Abstract
+Face presentation attacks (PA), also known as spoofing attacks, pose a substantial threat to biometric systems that rely on facial recognition systems, such as access control systems, mobile payments, and identity verification systems. To mitigate the risk of spoofing, various video-based methods have been introduced in the literature that analyze the motion of the face in the consecutive video frames. However, estimating the motion between adjacent frames is a challenging task and requires high computational cost. In this paper, we rephrase face anti-spoofing task as a motion prediction problem and introduce deep ensemble learning with frame skipping mechanism. In particular, the proposed frame skipping adopts uniform sampling by dividing a video into a fixed size of video clips. By doing so, every first frame of the clip is selected to minimize the risk of overfitting during the training of three different recurrent neural networks (RNNs). Motivated by the performance of individual RNN, a meta-model is developed to improve the overall detection performance by combining the prediction of each RNN. Extensive experiments are performed on four (CASIA-MFSD, Replay-Attack, MSU-MFSD, and OULU-NPU) datasets, and state-of-the-art performance is reported on three PAD datasets in the most challenging cross-dataset testing scenario.
